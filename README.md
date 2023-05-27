@@ -51,7 +51,7 @@
 - XOne
 
 ----
-#####Genre:
+##### Genre:
 - Action
 - Adventure
 - Fighting
